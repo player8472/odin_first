@@ -1,0 +1,23 @@
+# Build directories
+build/
+
+# Odin cache and artifacts
+*.o
+*.a
+odin-
+
+# Executables
+*.exe
+*.out
+
+# IDE files
+.vscode/
+.zed/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
