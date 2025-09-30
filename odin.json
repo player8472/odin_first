@@ -1,0 +1,8 @@
+{
+    "root": "src",
+    "collections": {
+        "vendor": ["deps/raylib/src"]
+    },
+    "dependencies": {},
+    "dev_dependencies": {}
+}

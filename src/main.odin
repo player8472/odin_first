@@ -1,11 +1,10 @@
 package main
 
-import "core:fmt"
 import rl "vendor:raylib"
 
 main :: proc() {
-    screen_width :: 800
-    screen_height :: 450
+    screen_width :: 1920
+    screen_height :: 1080
 
     rl.InitWindow(screen_width, screen_height, "Odin + Raylib")
     defer rl.CloseWindow()
